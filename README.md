@@ -1,4 +1,4 @@
-##Práctica de base de datos
+#Práctica de base de datos
 
 Sara Valentina Latyn
 07/04/2022
